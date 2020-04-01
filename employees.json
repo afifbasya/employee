@@ -1,0 +1,79 @@
+[
+  {
+    "id": 69,
+    "photo": "https://i.pravatar.cc/300",
+    "name": "Sanders",
+    "position": "Colonel",
+    "detail": {
+      "email": "sanders@colonels.com",
+      "phone": "0987654321",
+      "address": "Kentucky"
+    }
+  },
+  {
+    "id": 6,
+    "photo": "https://i.pravatar.cc/300",
+    "name": "Ronald",
+    "position": "Clown",
+    "detail": {
+      "email": "ronald@clowns.com",
+      "phone": "9876543210",
+      "address": "California"
+    }
+  },
+  {
+    "id": 40,
+    "photo": "https://i.pravatar.cc/300",
+    "name": "Wendy",
+    "position": "Sales Girl",
+    "detail": {
+      "email": "wendy@sales.com",
+      "phone": "8765432109",
+      "address": "Ohio"
+    }
+  },
+  {
+    "id": 11,
+    "photo": "https://i.pravatar.cc/300",
+    "name": "Borger",
+    "position": "King",
+    "detail": {
+      "email": "borger@kings.com",
+      "phone": "7654321098",
+      "address": "Florida"
+    }
+  },
+  {
+    "id": 50,
+    "photo": "https://i.pravatar.cc/300",
+    "name": "Mario",
+    "position": "Plumber",
+    "detail": {
+      "email": "mario@plumbers.com",
+      "phone": "6543210987",
+      "address": "New York"
+    }
+  },
+  {
+    "id": 33,
+    "photo": "https://i.pravatar.cc/300",
+    "name": "Saskeh",
+    "position": "Singer",
+    "detail": {
+      "email": "saskeh@singers.com",
+      "phone": "5432109876",
+      "address": "Antah Berantah"
+    }
+  },
+  {
+    "id": 8,
+    "photo": "https://i.pravatar.cc/300",
+    "name": "Nartoh",
+    "position": "Comedian",
+    "detail": {
+      "email": "nartoh@comedian.com",
+      "phone": "4321098765",
+      "address": "Seribu Malam"
+    }
+  }
+]
