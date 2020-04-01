@@ -1,4 +1,5 @@
-[
+{
+ "employees" : [
   {
     "id": 69,
     "photo": "https://i.pravatar.cc/300",
@@ -77,3 +78,4 @@
     }
   }
 ]
+}
